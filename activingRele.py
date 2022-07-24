@@ -17,7 +17,6 @@ try:
 	# Set GPIO port as an output
 	GPIO.setup(18, GPIO.OUT)
 
-
 	# Set GPIO port to False or True
 	GPIO.output(18, False)
 
